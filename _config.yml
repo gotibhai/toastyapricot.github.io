@@ -21,13 +21,18 @@
 title: Toasty Apricot
 email: abbott.pushkin@gmail.com
 description:
-  a dump place for everything from thoughts, ideas and reflections to projects,
+  a dumping ground for everything from thoughts, ideas and reflections to projects,
   recipes and adventures I embark upon - keep it a lit-tle mellow.
 baseurl: "/toastyapricot"
 url: "http://gotibhai.github.io"
 twitter_username: toastyapricot
 github_username:  gotibhai
-instagram: pushkinabbott
+instagram_username: pushkinabbott
+
+collections:
+  friends:
+    people: true
+    output: true
 
 # Build settings
 theme: minima
