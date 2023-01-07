@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: Pushkin Abbott
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hoi, I'm Pushkin! I like to indulge in occasional ramblings about technology, life, philosophy and growth. 
+I shoot sometimes -- I need to figure out a way to showcase photography in a way I like. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Software Engineer (aka Plumber) by trade
+* Runner/Sports enthusiast
+* Aspiring Maker/Creater
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Oh and this is my third attempt at starting a blog - the charm must ensue they say.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Let's talk if you like building stuff - abbott.pushkin@gmail.com
